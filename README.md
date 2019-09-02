@@ -1,10 +1,10 @@
 # Ejercicios de estructura de control 2
 ## Selectivas y Repetitivas
 
-Nombre:
+Nombre: jose Antonio Chavez Rivera
 --
 
-Github Username:
+Github Username: josechavezri
 --
 
 Instrucciones:
